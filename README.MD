@@ -9,11 +9,10 @@ Projeto desenvolvido no curso, CSS FlexBox da plataforma [Origamid](https://www.
  <ul>
    <li>HTML e CSS</li>
    <li>Responsividade com FlexBox</li>
-   <li></li>
  </ul>
  
 <hr>
 
-<h2>Layout criado no FIGMA</h2>
+<h2>Layout do Projeto Finalizado</h2>
 
 ![flexblog](https://user-images.githubusercontent.com/47059188/199624437-2bfcbbfc-8b75-4468-ad23-1220469a3edf.png)
